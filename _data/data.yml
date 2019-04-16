@@ -19,7 +19,6 @@ sidebar:
     github: sahilgarg30
     gitlab:
     bitbucket:
-    facebook: sahilgarg.3012
     twitter: '@sahilgarg3098'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -34,6 +33,12 @@ sidebar:
 
       - idiom: French
         level: Professional
+       
+      - idiom: German
+        level: Elementary
+        
+      - idiom: Italian
+        level: Elementary
 
     interests:
       - item: Climbing
