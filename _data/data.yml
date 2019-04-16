@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: sahilgarg3098@gmail.com
     phone: +91 8217387724
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: #do not add http://
+    linkedin: sahil-garg-31114a126
     github: sahilgarg30
     gitlab:
     bitbucket:
@@ -28,10 +28,10 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Hindi
+        level: Native
 
-      - idiom: Spanish
+      - idiom: French
         level: Professional
 
     interests:
