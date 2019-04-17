@@ -53,14 +53,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Undergrad student at MIT Manipal pursuing Computer Science and Engineering with a CGPA of 9.91/10 (Rank 1/250).
-      Passionate about applications of data science and machine learning in bioinformatics, business intelligence and
-      cognitive computing. 
+             Undergrad student at MIT Manipal pursuing Computer Science and Engineering with a CGPA of 9.91/10 (Rank 1/250).
+             Passionate about applications of data science and machine learning in bioinformatics, business intelligence and
+             cognitive computing. 
       
-      Keen interests in - <b>Data science and analytics, Artificial intelligence, Machine learning, Big Data
-      and Software development</b>.
+             Keen interests in - <b>Data science and analytics, Artificial intelligence, Machine learning, Big Data
+             and Software development</b>.
 
-      [PDF version of resume](https://google.com)
+             [PDF version of resume](https://google.com)
 
 education:
     - degree: B.Tech in Computer Science
@@ -196,7 +196,7 @@ projects:
                 and updating bank balance or other account details and making payments. Used local Sqlite database for data storage with firebase integration in Java.
                 [[Playstore Link]](https://play.google.com/store/apps/details?id=com.ananyagupta.northcrest)
       
-       - title: Problem Solver and Stress Buster App (C++)
+      - title: Problem Solver and Stress Buster App (C++)
         link: "https://github.com/sahilgarg30/Problem-solver-and-stress-buster"
         tagline: |
                 Developed a C++ app with an attractive UI that has a compilation of 3 games- chess, minesweeper and FreeCell which act as a stress buster and also helps science students
@@ -220,14 +220,14 @@ projects:
                 sort and filter based on different criteria.
                 [[Project Link]](https://github.com/sahilgarg30/DBMS-Lab-Project)
                 
-     - title: Polynomial operations using sparse matrices (C)
+      - title: Polynomial operations using sparse matrices (C)
         link: "https://github.com/sahilgarg30/Data-Structures-Project"
         tagline: |
                 As part of the data structures course, designed an algorithm in C for addition and multiplication of polynomials of any degree with two terms x and y, using 2D array representation as well as
                 sparse matrix representation.
                [[Project Link]](https://github.com/sahilgarg30/Data-Structures-Project)
                
-    - title: Minesweeper Game (Java)
+      - title: Minesweeper Game (Java)
         link: "https://github.com/sahilgarg30/Minesweeper---OOPS-Lab"
         tagline: |
                As part of the object oriented programming systems course, developed a minesweeper app using Java swings and applets. Implemented multiple classes and interfaces with inheritance and abstraction,
