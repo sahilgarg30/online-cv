@@ -92,10 +92,11 @@ experiences:
         to flights on the MakeMyTrip website as well as the mobile apps. My role involved - 
 
           - Data gathering and data interpretation/visualisation of all airports across the world, as 
-            well as finding insights on flights and routes connecting them.
+            well as finding insights on flights and routes connecting them using R and Python.
           - Data science and analytics on data regarding various carriers, flights and airports.
           - Carrier prediction based on user requirements, and developing re-routing strategies for 
-            optimal flight routes (route optimisation). 
+            optimal flight routes (route optimisation). Machine learning algorithms for regression and
+            classification were implemented in Python to obtain best results.
           - Comparing and analysing data serialisation and deserialisation formats such as Protobuf, 
             JSON and Gzip for best communication between different services.
             
@@ -115,7 +116,8 @@ experiences:
             Worked as an analytics, machine learning and strategic planning intern, under the guidance of 
             Mr. Mohit Sharma (VP - Data Science). Worked with large scale financial datasets to understand, 
             analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
-            future rates of interest for loans etc which will prove beneficial to the firm.
+            future rates of interest for loans etc using concepts of machine learning and statistics which 
+            will prove beneficial to the firm.
         
     - role: Data Analyst - Managerial Applications
       time: Dec 2017 - Jan 2017
@@ -123,7 +125,8 @@ experiences:
       details: |
         Studied and learnt R, statistics, data analytics and visualisation, and data science under professor 
         Sameer Mathur at IIM Lucknow, and completed a live project under his mentorship to analyse video game 
-        sales in the past 20 years, and predict future trends in the same.
+        sales in the past 20 years, and predict future trends in the same. Also, designed a framework to predict 
+        market behaviour and changes in gaming industry. 
                   
         [[Project link]](http://rpubs.com/sahilgarg30)
      
@@ -156,7 +159,7 @@ projects:
       - title: Ghar Ke Chefs (Java)
         link: "https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs"
         tagline:  |
-                  Developed an Android app that brings people fond of food together and enables them to buy/sell their home-cooked 
+                  Developed a platform (Android app) that brings people fond of food together and enables them to buy/sell their home-cooked 
                   products by forming small communities of interested people living nearby. Developed the backend database using 
                   cloud microservices and a recommendation engine to provide personalized recommendations and suggest similar products.
                                
