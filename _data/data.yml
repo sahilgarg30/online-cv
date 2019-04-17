@@ -139,12 +139,10 @@ projects:
                   Developed an Android app that brings people fond of food together and enables them to buy/sell their home-cooked 
                   products by forming small communities of interested people living nearby. It allows users to both upload their 
                   dishes as well as order dishes of others in the community. People can also review and share comments on dishes . 
-                  Developed the backend database using cloud microservices and a recommendation engine to provide personalized 
-                  recommendations and suggest similar products.
+                  Developed the backend database using cloud microservices and a recommendation engine to provide personalized recommendations 
+                  and suggest similar products.
                   [Project Video](https://www.youtube.com/watch?v=9zrRm6ai0ZM)
          
-                  
-
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
