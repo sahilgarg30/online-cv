@@ -131,14 +131,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Ghar Ke Chefs
+        link: "https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs"
+        tagline: "Developed an Android app that brings people fond of food together and enables them to buy/sell their home-cooked 
+                  products by forming small communities of interested people living nearby. It allows users to both upload their 
+                  dishes as well as order dishes of others in the community. People can also review and share comments on dishes . 
+                  Developed the backend database using cloud microservices and a recommendation engine to provide personalized 
+                  recommendations and suggest similar products. [Project Video](https://www.youtube.com/watch?v=9zrRm6ai0ZM)"
 
       - title: DevStudio
         link: "#"
