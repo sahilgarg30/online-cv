@@ -2,7 +2,7 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar:
+sidebar: 
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -103,9 +103,9 @@ experiences:
             JSON and Gzip for best communication between different services.
             
    - role: Research Intern
-      time: Aug 2018 - Oct 2019
-      company: Manipal Institute of Technology
-      details: |
+     time: Aug 2018 - Oct 2019
+     company: Manipal Institute of Technology
+     details:  |
                Worked in the domain of Computer vision and Internet of Things, under the guidance of Mrs. Sangeetha T.S.,
                on a research project that uses the Voice HAT built on Raspberry pi to enable users to check whether a parking
                space is available or not at a particular destination remotely. It includes image processing to detect empty 
@@ -115,10 +115,10 @@ experiences:
       time: May 2018 - July 2018
       company: MyMoneyMantra, New Delhi
       details: |
-        Worked as an analytics, machine learning and strategic planning intern, under the guidance of 
-        Mr. Mohit Sharma (VP - Data Science). Worked with large scale financial datasets to understand, 
-        analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
-        future rates of interest for loans etc which will prove beneficial to the firm.
+            Worked as an analytics, machine learning and strategic planning intern, under the guidance of 
+            Mr. Mohit Sharma (VP - Data Science). Worked with large scale financial datasets to understand, 
+            analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
+            future rates of interest for loans etc which will prove beneficial to the firm.
         
     - role: Data Analyst - Managerial Applications
       time: Dec 2017 - Jan 2017
@@ -133,18 +133,18 @@ experiences:
       time: Aug 2017 - Nov 2017
       company: AutoPay, Manipal
       details: |
-        Worked on a startup registered under Manipal University Technical Business Incubator (MUTBI) that aims to 
-        provide ride sharing facilities for students and faculty of Manipal University, collaborating with local auto
-        drivers and transportation services. Developed an android application to enable booking and sharing of rides,
-        and built a server implementation for the same.
+            Worked on a startup registered under Manipal University Technical Business Incubator (MUTBI) that aims to 
+            provide ride sharing facilities for students and faculty of Manipal University, collaborating with local auto
+            drivers and transportation services. Developed an android application to enable booking and sharing of rides,
+            and built a server implementation for the same.
    
     - role: Research and Development Intern
       time: May 2017 - July 2017
       company: Falgee Labs, Bangalore
       details: |
-        Worked on developing an app that lets you broadcast YouTube/videos/songs/images/any other media items onto other
-        devices also having the app and paired with your own device over the same Wi-Fi network or play them locally. My
-        role involved -
+            Worked on developing an app that lets you broadcast YouTube/videos/songs/images/any other media items onto other
+            devices also having the app and paired with your own device over the same Wi-Fi network or play them locally. My
+            role involved -
         
             - enabling full screen video playback for YouTube videos on screen rotation locally
             - broadcasting YouTube videos to remote devices connected via Wi-fi/Bluetooth
