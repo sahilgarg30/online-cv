@@ -162,6 +162,7 @@ projects:
                   Developed an Android app that brings people fond of food together and enables them to buy/sell their home-cooked 
                   products by forming small communities of interested people living nearby. Developed the backend database using 
                   cloud microservices and a recommendation engine to provide personalized recommendations and suggest similar products.
+                  |
                   [[Project Video]](https://www.youtube.com/watch?v=9zrRm6ai0ZM)
                   [[PlayStore Link]](https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs)
          
@@ -171,6 +172,7 @@ projects:
                  Performed basic quantitative analysis and exploratory data analysis of large data-set using R. Ran simple statistical tests on the data,
                  such as the chi-square test, correlation tests and t-tests. Performed regression analysis, data visualisation and predictive modelling 
                  on sales of video games for the past 20 years to understand trends and popularity of consoles/games. 
+                 |
                  [[Project Link(Rpubs)]](http://rpubs.com/sahilgarg30/videoGamesProject2)
 
       - title: Construction of Golomb Rulers using MPI and CUDA (C)
@@ -230,6 +232,7 @@ projects:
         tagline: |
                As part of the object oriented programming systems course, developed a minesweeper app using Java swings and applets. Implemented multiple classes and interfaces with inheritance and abstraction,
                involving concepts of polymorphism, encapsulation and aggregation.
+                 |
                [[Project Link]](https://github.com/sahilgarg30/Minesweeper---OOPS-Lab)
         
 publications:
