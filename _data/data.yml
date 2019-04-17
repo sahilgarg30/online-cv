@@ -236,11 +236,8 @@ projects:
                [[Project Link]](https://github.com/sahilgarg30/Minesweeper---OOPS-Lab)
         
 publications:
-    title: Publications
+    title: Awards and Achievements
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
       - title: The Art of Computer Programming
