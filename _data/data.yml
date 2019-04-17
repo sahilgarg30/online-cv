@@ -101,7 +101,16 @@ experiences:
             optimal flight routes (route optimisation). 
           - Comparing and analysing data serialisation and deserialisation formats such as Protobuf, 
             JSON and Gzip for best communication between different services.
-
+            
+   - role: Research Intern
+      time: Aug 2018 - Oct 2019
+      company: Manipal Institute of Technology
+      details: |
+               Worked in the domain of Computer vision and Internet of Things, under the guidance of Mrs. Sangeetha T.S.,
+               on a research project that uses the Voice HAT built on Raspberry pi to enable users to check whether a parking
+               space is available or not at a particular destination remotely. It includes image processing to detect empty 
+               parking slots and integration with voice assistant and cloud servers.
+            
     - role: Data Science Intern
       time: May 2018 - July 2018
       company: MyMoneyMantra, New Delhi
@@ -116,8 +125,8 @@ experiences:
       company: Indian Institute of Management (IIM), Lucknow
       details: |
         Studied and learnt R, statistics, data analytics and visualisation, and data science under professor 
-        Sameer Mathur at IIM Lucknow, and completed a live project under him to analyse video game sales in 
-        the past 20 years, and predict future trends in the same.
+        Sameer Mathur at IIM Lucknow, and completed a live project under his mentorship to analyse video game 
+        sales in the past 20 years, and predict future trends in the same.
         [[Project link]](http://rpubs.com/sahilgarg30)
      
     - role: Android developer
@@ -128,13 +137,25 @@ experiences:
         provide ride sharing facilities for students and faculty of Manipal University, collaborating with local auto
         drivers and transportation services. Developed an android application to enable booking and sharing of rides,
         and built a server implementation for the same.
+   
+    - role: Research and Development Intern
+      time: May 2017 - July 2017
+      company: Falgee Labs, Bangalore
+      details: |
+        Worked on developing an app that lets you broadcast YouTube/videos/songs/images/any other media items onto other
+        devices also having the app and paired with your own device over the same Wi-Fi network or play them locally. My
+        role involved -
+        
+            - enabling full screen video playback for YouTube videos on screen rotation locally
+            - broadcasting YouTube videos to remote devices connected via Wi-fi/Bluetooth
+            - enable organisation of local gallery images into specific folders
 
 projects:
     title: Projects
     intro: >
     
     assignments:
-      - title: Ghar Ke Chefs
+      - title: Ghar Ke Chefs (Java)
         link: "https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs"
         tagline:  |
                   Developed an Android app that brings people fond of food together and enables them to buy/sell their home-cooked 
@@ -142,25 +163,77 @@ projects:
                   dishes as well as order dishes of others in the community. People can also review and share comments on dishes . 
                   Developed the backend database using cloud microservices and a recommendation engine to provide personalized recommendations 
                   and suggest similar products.
-                  [(Project Video)](https://www.youtube.com/watch?v=9zrRm6ai0ZM)
-                  [(PlayStore Link)](https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs)
+                  [[Project Video]](https://www.youtube.com/watch?v=9zrRm6ai0ZM)
+                  [[PlayStore Link]](https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs)
          
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Video game sales analysis and predictions (R)
+        link: "http://rpubs.com/sahilgarg30/videoGamesProject2"
+        tagline: |
+                 Performed basic quantitative analysis and exploratory data analysis of large data-set using R. Ran simple statistical tests on the data,
+                 such as the chi-square test, correlation tests and t-tests. Performed regression analysis of the data and developed managerial insights 
+                 using qualitative analysis. Performed data visualisation and predictive modelling on sales of video games for the past 20 years to understand
+                 trends and popularity of consoles/games. [[Project Link(Rpubs)]](http://rpubs.com/sahilgarg30/videoGamesProject2)
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Construction of Golomb Rulers using MPI and CUDA (C)
+        link: "https://github.com/sahilgarg30/PCAP_Lab_Project_GolombRulers"
+        tagline: |
+                As part of the parallel processing lab course, developed a parallel algorithm to solve the OGR-n (Optimal Golomb ruler) problem, a combinatorial 
+                optimisation problem, believed to be NP-Hard using (i) MPI and (ii) CUDA standards. The algorithm uses collaborative mechanisms between processors with 
+                effective load balancing for enhanced efficiency. Compared the execution timings for serial and parallel implementation to determine speedup achieved
+                by GPU. [[Project Link]](https://github.com/sahilgarg30/PCAP_Lab_Project_GolombRulers)
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Compiler for ERPLAG language (C)
+        link: "https://github.com/sahilgarg30/CD_lab_project"
+        tagline: |
+                 As part of the compiler design lab course, designed and developed a lexical analyser and parser along with symbol table generation for a 
+                 compiler of a miniature language named "ERPLAG" which is a strongly typed language with primitive data types as integer, floating point
+                 and arrays. The compiler was developed in C. [[Project Link]](https://github.com/sahilgarg30/CD_lab_project)
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: North Crest Banking (Java)
+        link: "https://play.google.com/store/apps/details?id=com.ananyagupta.northcrest"
+        tagline: |
+                Developed NorthCrest, a multi-user banking app (for Android) that lets one perform multiple bank functionalities such as making online transactions, viewing
+                and updating bank balance or other account details and making payments. Used local Sqlite database for data storage with firebase integration in Java.
+                [[Playstore Link]](https://play.google.com/store/apps/details?id=com.ananyagupta.northcrest)
+      
+       - title: Problem Solver and Stress Buster App (C++)
+        link: "https://github.com/sahilgarg30/Problem-solver-and-stress-buster"
+        tagline: |
+                Developed a C++ app with an attractive UI that has a compilation of 3 games- chess, minesweeper and FreeCell which act as a stress buster and also helps science students
+                by solving 40+ different types of numerical problems such as organic conversions in Chemistry; mechanics, fluid dynamics and thermodynamics in Physics as well as matrix calculations, 
+                Probability and statistics in Math.
+                [[Project Link]](https://github.com/sahilgarg30/Problem-solver-and-stress-buster)
+                
+      - title: DisastAR (Unity)
+        link: "https://github.com/sahilgarg30/code.fun.do-2018"
+        tagline: |
+                Developed a cross-platform mobile application as part of the Microsoft Code.fun.do 2018 hackathon challenge using Unity Engine and Vuphoria that uses Augmented Reality (AR) to assist 
+                architects in designing 3D models of disaster-resistant buildings. Using augmented reality and cloud computation, virtual 3D models of buildings are created and simulations of real-life
+                disasters can be performed to analyse strength and resistance levels of buildings.
+                [[Project Link]](https://github.com/sahilgarg30/code.fun.do-2018)
+                
+      - title: e-Commerce and retail (Java,SQL)
+        link: "https://github.com/sahilgarg30/DBMS-Lab-Project"
+        tagline: |
+                As part of the database management systems course, developed an e-commerce webapp using Java Swing with JDBC support and Oracle DB backend. It involved resolving complex functional 
+                dependencies, performing normalisation on multiple relational tables and implementing various nested SQL queries to extract data from a large database, to provide features such as search,
+                sort and filter based on different criteria.
+                [[Project Link]](https://github.com/sahilgarg30/DBMS-Lab-Project)
+                
+     - title: Polynomial operations using sparse matrices (C)
+        link: "https://github.com/sahilgarg30/Data-Structures-Project"
+        tagline: |
+                As part of the data structures course, designed an algorithm in C for addition and multiplication of polynomials of any degree with two terms x and y, using 2D array representation as well as
+                sparse matrix representation.
+               [[Project Link]](https://github.com/sahilgarg30/Data-Structures-Project)
+               
+    - title: Minesweeper Game (Java)
+        link: "https://github.com/sahilgarg30/Minesweeper---OOPS-Lab"
+        tagline: |
+               As part of the object oriented programming systems course, developed a minesweeper app using Java swings and applets. Implemented multiple classes and interfaces with inheritance and abstraction,
+               involving concepts of polymorphism, encapsulation and aggregation.
+               [[Project Link]](https://github.com/sahilgarg30/Minesweeper---OOPS-Lab)
+        
 publications:
     title: Publications
     intro: |
