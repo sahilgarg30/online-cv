@@ -18,7 +18,7 @@ sidebar:
     linkedin: sahilgarg30
     github: sahilgarg30
     gitlab:
-    bitbucket:
+    bitbucket: sahilgarg30
     twitter: '@sahilgarg3098'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -65,7 +65,7 @@ education:
     - degree: B.Tech in Computer Science
       university: Manipal Institute of Technology
       time: 2016 - 2020 (CGPA : 9.91/10)
-      details: 
+      details: |
         Electives - Soft Computing Paradigms, iOS application Development(Stanford CS193P), Analytics for digital Marketing
 
 experiences:
