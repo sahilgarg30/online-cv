@@ -226,7 +226,7 @@ projects:
         tagline: |
                 As part of the data structures course, designed an algorithm in C for addition and multiplication of polynomials of any degree with two terms x and y, using 2D array representation as well as
                 sparse matrix representation.
-               [[Project Link]](https://github.com/sahilgarg30/Data-Structures-Project)
+                [[Project Link]](https://github.com/sahilgarg30/Data-Structures-Project)
                
       - title: Minesweeper Game (Java)
         link: "https://github.com/sahilgarg30/Minesweeper---OOPS-Lab"
