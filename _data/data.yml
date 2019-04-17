@@ -110,6 +110,23 @@ experiences:
         Mr. Mohit Sharma (VP - Data Science). Worked with large scale financial datasets to understand, 
         analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
         future rates of interest for loans etc which will prove beneficial to the firm.
+        
+    - role: Data Analyst - Managerial Applications
+      time: Dec 2017 - Jan 2017
+      company: Indian Institute of Management (IIM), Lucknow
+      details: |
+        Studied and learnt R, statistics, data analytics and visualisation, and data science under professor 
+        Sameer Mathur at IIM Lucknow, and completed a live project under him to analyse video game sales in 
+        the past 20 years, and predict future trends in the same.
+     
+    - role: Android developer
+      time: Aug 2017 - Nov 2017
+      company: AutoPay, Manipal
+      details: |
+        Worked on a startup registered under Manipal University Technical Business Incubator (MUTBI) that aims to 
+        provide ride sharing facilities for students and faculty of Manipal University, collaborating with local auto
+        drivers and transportation services. Developed an android application and server implementation for the same.
+        [Project link](https://github.com/daveo30/Autopay)
 
 projects:
     title: Projects
