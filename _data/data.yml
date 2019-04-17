@@ -81,11 +81,7 @@ experiences:
     - role: Summer Analyst
       time: May 2019 - July 2019
       company: Goldman Sachs, Bangalore
-      details: |
-        Describe your role here.
-
-          - Bullet point 1
-          - Bullet point 2
+      details: 
 
     - role: Technology Development Intern
       time: Dec 2018 - Jan 2019
@@ -274,4 +270,3 @@ publications:
                     
 
 footer: >
-    Created with <i class="fas fa-heart"></i> by Sahil Garg
