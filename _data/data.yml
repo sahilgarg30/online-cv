@@ -49,17 +49,19 @@ sidebar:
 
       - item: Sports - Basketball, Table tennis
         link:
+      
+      - item: Sports - Basketball, Table tennis
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Undergrad student at MIT Manipal pursuing Computer Science and Engineering with a CGPA of 9.91/10 (Rank 1/250).
+      Passionate about applications of data science and machine learning in bioinformatics, business intelligence and
+      cognitive computing. Keen interests in - Data science and analytics, Artificial intelligence, Machine learning, Big Data
+      and Software development.
 
-      Second paragraph if required.
+      [PDF version of resume](google.com)
 
 education:
     - degree: B.Tech in Computer Science
