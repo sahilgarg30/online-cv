@@ -80,48 +80,39 @@ education:
           - Bullet point
           
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Summer Analyst
+      time: May 2019 - July 2019
+      company: Goldman Sachs, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your role here.
 
-          - Bullet point
-          - Bullet point
+          - Bullet point 1
+          - Bullet point 2
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technology Development Intern
+      time: Dec 2018 - Jan 2019
+      company: MakeMyTrip, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Worked in the Flights team, under the guidance of Mr. Satish Mani (SVP - Technology), 
+        that is responsible for search, booking, confirmation, cancellation and all things related
+        to flights on the MakeMyTrip website as well as the mobile apps. My role involved - 
 
-          - Bullet point
-          - Bullet point
+          - Data gathering and data interpretation/visualisation of all airports across the world, as 
+            well as finding insights on flights and routes connecting them.
+          - Data science and analytics on data regarding various carriers, flights and airports.
+          - Carrier prediction based on user requirements, and developing re-routing strategies for 
+            optimal flight routes (route optimisation). 
+          - Comparing and analysing data serialisation and deserialisation formats such as Protobuf, 
+            JSON and Gzip for best communication between different services.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Data Science Intern
+      time: May 2018 - July 2018
+      company: MyMoneyMantra, New Delhi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Worked as an analytics, machine learning and strategic planning intern, under the guidance of 
+        Mr. Mohit Sharma (VP - Data Science). Worked with large scale financial datasets to understand, 
+        analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
+        future rates of interest for loans etc which will prove beneficial to the firm.
 
 projects:
     title: Projects
