@@ -160,10 +160,8 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs"
         tagline:  |
                   Developed an Android app that brings people fond of food together and enables them to buy/sell their home-cooked 
-                  products by forming small communities of interested people living nearby. It allows users to both upload their 
-                  dishes as well as order dishes of others in the community. People can also review and share comments on dishes . 
-                  Developed the backend database using cloud microservices and a recommendation engine to provide personalized recommendations 
-                  and suggest similar products.
+                  products by forming small communities of interested people living nearby. Developed the backend database using 
+                  cloud microservices and a recommendation engine to provide personalized recommendations and suggest similar products.
                   [[Project Video]](https://www.youtube.com/watch?v=9zrRm6ai0ZM)
                   [[PlayStore Link]](https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs)
          
@@ -171,24 +169,24 @@ projects:
         link: "http://rpubs.com/sahilgarg30/videoGamesProject2"
         tagline: |
                  Performed basic quantitative analysis and exploratory data analysis of large data-set using R. Ran simple statistical tests on the data,
-                 such as the chi-square test, correlation tests and t-tests. Performed regression analysis of the data and developed managerial insights 
-                 using qualitative analysis. Performed data visualisation and predictive modelling on sales of video games for the past 20 years to understand
-                 trends and popularity of consoles/games. [[Project Link(Rpubs)]](http://rpubs.com/sahilgarg30/videoGamesProject2)
+                 such as the chi-square test, correlation tests and t-tests. Performed regression analysis, data visualisation and predictive modelling 
+                 on sales of video games for the past 20 years to understand trends and popularity of consoles/games. 
+                 [[Project Link(Rpubs)]](http://rpubs.com/sahilgarg30/videoGamesProject2)
 
       - title: Construction of Golomb Rulers using MPI and CUDA (C)
         link: "https://github.com/sahilgarg30/PCAP_Lab_Project_GolombRulers"
         tagline: |
                 As part of the parallel processing lab course, developed a parallel algorithm to solve the OGR-n (Optimal Golomb ruler) problem, a combinatorial 
                 optimisation problem, believed to be NP-Hard using (i) MPI and (ii) CUDA standards. The algorithm uses collaborative mechanisms between processors with 
-                effective load balancing for enhanced efficiency. Compared the execution timings for serial and parallel implementation to determine speedup achieved
-                by GPU. [[Project Link]](https://github.com/sahilgarg30/PCAP_Lab_Project_GolombRulers)
+                effective load balancing for enhanced efficiency. Compared the execution timings for serial and parallel implementation to determine speedup.
+                [[Project Link]](https://github.com/sahilgarg30/PCAP_Lab_Project_GolombRulers)
 
       - title: Compiler for ERPLAG language (C)
         link: "https://github.com/sahilgarg30/CD_lab_project"
         tagline: |
                  As part of the compiler design lab course, designed and developed a lexical analyser and parser along with symbol table generation for a 
-                 compiler of a miniature language named "ERPLAG" which is a strongly typed language with primitive data types as integer, floating point
-                 and arrays. The compiler was developed in C. [[Project Link]](https://github.com/sahilgarg30/CD_lab_project)
+                 compiler of a miniature language named "ERPLAG", a strongly typed language in C. 
+                 [[Project Link]](https://github.com/sahilgarg30/CD_lab_project)
 
       - title: North Crest Banking (Java)
         link: "https://play.google.com/store/apps/details?id=com.ananyagupta.northcrest"
@@ -209,8 +207,7 @@ projects:
         link: "https://github.com/sahilgarg30/code.fun.do-2018"
         tagline: |
                 Developed a cross-platform mobile application as part of the Microsoft Code.fun.do 2018 hackathon challenge using Unity Engine and Vuphoria that uses Augmented Reality (AR) to assist 
-                architects in designing 3D models of disaster-resistant buildings. Using augmented reality and cloud computation, virtual 3D models of buildings are created and simulations of real-life
-                disasters can be performed to analyse strength and resistance levels of buildings.
+                architects in designing 3D models of disaster-resistant buildings. Simulations of real-life disasters can be performed to analyse strength and resistance levels of buildings. 
                 [[Project Link]](https://github.com/sahilgarg30/code.fun.do-2018)
                 
       - title: e-Commerce and retail (Java,SQL)
