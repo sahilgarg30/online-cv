@@ -234,6 +234,21 @@ projects:
                involving concepts of polymorphism, encapsulation and aggregation.
                                  
                [[Project Link]](https://github.com/sahilgarg30/Minesweeper---OOPS-Lab)
+               
+projects:
+    title: Leadership Experience and Community Service
+    intro: >
+    
+    assignments:
+      - title: Ghar Ke Chefs (Java)
+        link: "https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs"
+        tagline:  |
+                  Developed an Android app that brings people fond of food together and enables them to buy/sell their home-cooked 
+                  products by forming small communities of interested people living nearby. Developed the backend database using 
+                  cloud microservices and a recommendation engine to provide personalized recommendations and suggest similar products.
+                               
+                  [[Project Video]](https://www.youtube.com/watch?v=9zrRm6ai0ZM)
+                  [[PlayStore Link]](https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs)
         
 publications:
     title: Awards and Achievements
@@ -272,28 +287,6 @@ publications:
         conference: Solved the hardest problem of the problem set in the fastest time in the 18th edition of HP code wars in 2015, in Bangalore, competing against 800 teams and over 2000 
                     participants from top schools all across the country.
                     
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Created with <i class="fas fa-heart"></i> by Sahil Garg
