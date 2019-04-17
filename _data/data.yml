@@ -109,8 +109,8 @@ experiences:
       details:  |
                Worked in the domain of Computer vision and Internet of Things, under the guidance of Mrs. Sangeetha T.S.,
                on a research project that uses the Voice HAT built on Raspberry pi to enable users to check whether a parking
-               space is available or not at a particular destination remotely. It includes image processing to detect empty 
-               parking slots and integration with voice assistant and cloud servers.
+               space is available or not at a particular destination remotely. It includes image processing in Python using OpenCV
+               to detect empty parking slots and integration with voice assistant and cloud servers.
             
     - role: Data Science Intern
       time: May 2018 - July 2018
