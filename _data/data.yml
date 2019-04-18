@@ -208,15 +208,15 @@ projects:
                 Developed a C++ app with an attractive UI that has a compilation of 3 games- chess, minesweeper and FreeCell which act as a stress buster and also helps science students
                 by solving 40+ different types of numerical problems such as organic conversions in Chemistry; mechanics, fluid dynamics and thermodynamics in Physics as well as matrix calculations, 
                 Probability and statistics in Math.
-                
-                [[Project Link]](https://github.com/sahilgarg30/Problem-solver-and-stress-buster) [[Project Video]](https://www.youtube.com/watch?v=m1WSpIgHO8k)
+                [[Project Link]](https://github.com/sahilgarg30/Problem-solver-and-stress-buster)
                 
       - title: DisastAR (Unity)
         link: "https://github.com/sahilgarg30/code.fun.do-2018"
         tagline: |
                 Developed a cross-platform mobile application as part of the Microsoft Code.fun.do 2018 hackathon challenge using Unity Engine and Vuphoria that uses Augmented Reality (AR) to assist 
                 architects in designing 3D models of disaster-resistant buildings. Simulations of real-life disasters can be performed to analyse strength and resistance levels of buildings. 
-                [[Project Link]](https://github.com/sahilgarg30/code.fun.do-2018)
+                
+                [[Project Link]](https://github.com/sahilgarg30/code.fun.do-2018) [[Project Video]](https://www.youtube.com/watch?v=m1WSpIgHO8k)
                 
       - title: e-Commerce and retail (Java,SQL)
         link: "https://github.com/sahilgarg30/DBMS-Lab-Project"
