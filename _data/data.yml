@@ -192,7 +192,7 @@ projects:
         link: "https://github.com/sahilgarg30/CD_lab_project"
         tagline: |
                  As part of the compiler design lab course, designed and developed a lexical analyser and parser along with symbol table generation for a 
-                 compiler of a miniature language named "ERPLAG", a strongly typed language in C. 
+                 compiler of a miniature language named "ERPLAG", a strongly typed language, in C. 
                  [[Project Link]](https://github.com/sahilgarg30/CD_lab_project)
 
       - title: North Crest Banking (Java)
