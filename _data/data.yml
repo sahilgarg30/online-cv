@@ -183,7 +183,7 @@ projects:
                  [[Project Link(Rpubs)]](http://rpubs.com/sahilgarg30/videoGamesProject2)
 
       - title: Construction of Golomb Rulers using MPI and CUDA (C)
-        link: "https://github.com/sahilgarg30/PCAP_Lab_Project_GolombRulers"
+        link: "https://github.com/sahilgarg30/Golomb-Rulers-A-parallel-implementation"
         tagline: |
                 As part of the parallel processing lab course, developed a parallel algorithm to solve the OGR-n (Optimal Golomb ruler) problem, a combinatorial 
                 optimisation problem, believed to be NP-Hard using (i) MPI and (ii) CUDA standards. The algorithm uses collaborative mechanisms between processors with 
@@ -191,7 +191,7 @@ projects:
                 [[Project Link]](https://github.com/sahilgarg30/Golomb-Rulers-A-parallel-implementation)
 
       - title: Compiler for ERPLAG language (C)
-        link: "https://github.com/sahilgarg30/CD_lab_project"
+        link: "https://github.com/sahilgarg30/Compiler_for_ERPLAG_language"
         tagline: |
                  As part of the compiler design lab course, designed and developed a lexical analyser and parser along with symbol table generation for a 
                  compiler of a miniature language named "ERPLAG", a strongly typed language, in C. 
