@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-             Undergrad researcher and student at MIT Manipal pursuing Computer Science and Engineering with a CGPA of 9.91/10 (Rank 1/270).
+             Undergrad researcher and student at MIT Manipal pursuing Computer Science and Engineering with a CGPA of 9.92/10 (Rank 1/270).
              Passionate about applications of data science and machine learning in bioinformatics, business intelligence and
              cognitive computing. 
       
@@ -68,7 +68,8 @@ career-profile:
 
 education:
     - degree: B.Tech in Computer Science
-      university: Manipal Institute of Technology, Manipal (CGPA - 9.91/10)
+      university: Manipal Institute of Technology, Manipal (CGPA - 9.92/10)
+                  Rank 1/270
       time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
