@@ -90,12 +90,12 @@ experiences:
         retail banking platform "Marcus", for the application development team responsible for loans in
         the US market. My role involved -
         
-          - Developing REST API endpoints and adding features to web services for multiple functionalities
+          - Developing REST APIs and adding features to web services for multiple functionalities
             required for loan processing and loan recovery.
           - Implementing encryption/decryption algorithms for data storage and transfer operations.
           - Following scrum and agile software development practices to deliver incremental builds.
           - Integrating with various external vendors and internal systems, defining requirements and contracts.
-          - Tech implemented : MongoDB, Apache Kafka, Spring, Dropwizard, Springboot, SFTP, Apache Camel, Java microservices
+          - Tech implemented : MongoDB, Apache Kafka, Spring, Dropwizard, Springboot, SFTP, Apache Camel, Java microservices.
         
         [[Website - Marcus US]](https://www.marcus.com) [[Website - Marcus UK]](https://www.marcus.co.uk/uk/en)
            
