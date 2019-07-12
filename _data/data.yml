@@ -85,8 +85,18 @@ experiences:
     - role: Summer Analyst
       time: May 2019 - July 2019
       company: Goldman Sachs, Bangalore
-      details: 
-
+      details:  |
+        Worked in the Consumer and Investment Management - Technology Division on the online consumer
+        retail banking platform "Marcus", for the application development team responsible for loans in
+        the US market. My role involved -
+        
+          - Developing REST API endpoints and adding features to webservices for multiple functionalities
+            required for loan processing.
+          - Implementing encryption/decryption algorithms for data storage and transfer operations.
+          - Following scrum and agile software development to deliver incremental builds.
+          - Integrating with various external vendors and internal systems, defining requirements and contracts.
+        Tech implemented : MongoDB, Apache Kafka, Spring, Dropwizard, Springboot, SFTP, Apache Camel, Java microservices
+           
     - role: Technology Development Intern
       time: Dec 2018 - Jan 2019
       company: MakeMyTrip, Bangalore
