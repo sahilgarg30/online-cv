@@ -156,7 +156,7 @@ experiences:
       time: May 2017 - July 2017
       company: Falgee Labs, Bangalore
       details: |
-            Worked on developing an app YouTV N Remote (over 100,000 installs on PlayStore) that lets you broadcast YouTube/videos/songs/images/any other media items onto other
+            Worked on developing an app YouTv N Remote (over 100,000 installs on PlayStore) that lets you broadcast YouTube/videos/songs/images/any other media items onto other
             devices also having the app and paired with your own device over the same Wi-Fi network or play them locally. My
             role involved -
         
@@ -294,6 +294,15 @@ leadexperiences:
       details: |
                Participated in weekly visits to nearby orphanages, old-age homes, rehabilitation centres for mentally challenged people, and other community institutions. Actively involved in 
                fund raisers and blood donation drives organised by the club. [[Facebook]](https://www.facebook.com/rcmanipal/)
+    
+    - role: System Administrator and Organiser
+      time: Jan 2017 - Oct 2017
+      company: Manipal Institute of Technology, Manipal
+      details: |
+               Developed and administered the online registration portal and student database for MIT Manipal’s cultural fest
+               Revels and technical fest TechTatva. The portal was used by about 3000 students. Developed using HTML, CSS, PHP and JavaScript.
+               Also served as an organiser for Cryptoss (Online Coding event) and volunteer for Workshops and Sports categories.
+               
                
 publications:
     title: Awards and Achievements
