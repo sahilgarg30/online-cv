@@ -104,7 +104,7 @@ experiences:
             well as finding insights on flights and routes connecting them using R and Python.
           - Data science and analytics on data regarding various carriers, flights and airports.
           - Carrier prediction based on user requirements, and developing re-routing strategies for 
-            optimal flight routes (route optimisation). Machine learning algorithms for regression and
+            optimal flight routes (route optimisation - 96% accuracy). Machine learning algorithms for regression and
             classification were implemented in Python to obtain best results.
           - Comparing and analysing data serialisation and deserialisation formats such as Protobuf, 
             JSON and Gzip for best communication between different services.
@@ -204,7 +204,7 @@ projects:
         tagline: |
                 As part of the parallel processing lab course, developed a parallel algorithm to solve the OGR-n (Optimal Golomb ruler) problem, a combinatorial 
                 optimisation problem, believed to be NP-Hard using (i) MPI and (ii) CUDA standards. The algorithm uses collaborative mechanisms between processors with 
-                effective load balancing for enhanced efficiency. Compared the execution timings for serial and parallel implementation to determine speedup.
+                effective load balancing for enhanced efficiency. Compared the execution timings for serial and parallel implementation to determine speedup, improved the efficiency by 87 percent.
                 [[Project Link]](https://github.com/sahilgarg30/Golomb-Rulers-A-parallel-implementation)
 
       - title: Compiler for ERPLAG language (C)
