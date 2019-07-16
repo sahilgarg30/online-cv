@@ -125,11 +125,12 @@ experiences:
       company: MyMoneyMantra, New Delhi
       details: |
             Worked as an analytics, machine learning and strategic planning intern, under the guidance of 
-            Mr. Mohit Sharma (VP - Data Science). Worked with large scale financial datasets to understand, 
+            Mr. Mohit Sharma (VP - Data Science). 
+            - Worked with large scale financial datasets to understand, 
             analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
             future rates of interest for loans etc using concepts of machine learning and statistics. 
-            The enhanced customer targeting based on these predictions helped the firm aquire 20 percent more
-            customers in the following quarter and improve sales by 6 percent.
+            - The enhanced customer targeting based on these predictions helped the firm aquire 23 percent more
+            customers in the following quarter and improve sales by 8 percent.
             [[Website]](https://www.mymoneymantra.com)
         
     - role: Data Analyst - Managerial Applications
@@ -137,9 +138,11 @@ experiences:
       company: Indian Institute of Management (IIM), Lucknow
       details: |
         Studied and learnt R, statistics, data analytics and visualisation, and data science under professor 
-        Sameer Mathur(Ph.D. - CMU) at IIM Lucknow. Applied these concepts in real-time applications of Data Analytics (Predictive Analytics, Pricing Systems) 
+        Sameer Mathur(Ph.D. - CMU) at IIM Lucknow. 
+        - Applied these concepts in real-time applications of Data Analytics (Predictive Analytics, Pricing Systems) 
         while working on various Producer-Consumer situations such as Airline Ticket Pricing, predicting MBA starting salaries and employee retention ratios.
-        Completed a live project under his mentorship to analyse video game 
+        - Extensively used R to visualize and analyze data to solve business case studies from Harvard Business Review with daily assignments and remote submissions.
+        - Completed a live project under his mentorship to analyse video game 
         sales in the past 20 years, and predict future trends in the same. Also, designed a framework to predict 
         market behaviour and changes in gaming industry. 
                   
@@ -151,8 +154,10 @@ experiences:
       details: |
             Worked on a startup registered under Manipal University Technical Business Incubator (MUTBI) that aims to 
             provide ride sharing facilities for students and faculty of Manipal University, collaborating with local auto
-            drivers and transportation services. Developed an android application to enable booking and sharing of rides,
-            and built a server implementation for the same. Find us at [[Facebook]](https://www.facebook.com/automatedpayment/)
+            drivers and transportation services. 
+            - Developed an android application to enable booking and sharing of rides,and built a server implementation for the same. 
+            - Worked with Google Firebase API, Facebook API and Razorpay API. Designed the interface using Material Design guidelines.
+            Find us at [[Facebook]](https://www.facebook.com/automatedpayment/)
    
     - role: Research and Development Intern
       time: May 2017 - July 2017
