@@ -126,11 +126,12 @@ experiences:
       details: |
             Worked as an analytics, machine learning and strategic planning intern, under the guidance of 
             Mr. Mohit Sharma (VP - Data Science). 
-            - Worked with large scale financial datasets to understand, 
-            analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
-            future rates of interest for loans etc using concepts of machine learning and statistics. 
-            - The enhanced customer targeting based on these predictions helped the firm aquire 23 percent more
-            customers in the following quarter and improve sales by 8 percent.
+              - Worked with large scale financial datasets to understand, 
+                analyse, plot and map customer behaviour, as well as predict customer actions and the appropriate 
+                future rates of interest for loans etc using concepts of machine learning and statistics. 
+              - The enhanced customer targeting based on these predictions helped the firm aquire 23 percent more
+                customers in the following quarter and improve sales by 8 percent.
+            
             [[Website]](https://www.mymoneymantra.com)
         
     - role: Data Analyst - Managerial Applications
@@ -155,8 +156,9 @@ experiences:
             Worked on a startup registered under Manipal University Technical Business Incubator (MUTBI) that aims to 
             provide ride sharing facilities for students and faculty of Manipal University, collaborating with local auto
             drivers and transportation services. 
-            - Developed an android application to enable booking and sharing of rides,and built a server implementation for the same. 
-            - Worked with Google Firebase API, Facebook API and Razorpay API. Designed the interface using Material Design guidelines.
+              - Developed an android application to enable booking and sharing of rides,and built a server implementation for the same. 
+              - Worked with Google Firebase API, Facebook API and Razorpay API. Designed the interface using Material Design guidelines.
+            
             Find us at [[Facebook]](https://www.facebook.com/automatedpayment/)
    
     - role: Research and Development Intern
