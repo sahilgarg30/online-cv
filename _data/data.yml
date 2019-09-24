@@ -237,7 +237,7 @@ projects:
                 Built an android app that scans and pushes QR codes to the cloud, dials specific numbers and behaves as a kiosk app such that users cannot switch to another app or disable Wifi/GPS etc.
                 The app is geofenced and raises an alarm as well as sends alert to a Management Console which is a linked WebApp developed using Django framework, when the phone moves away from designated location by over 15 metres.
                 This project secured 1st runners up at HackWithInfy'19, a national level Hackathon conducted by Infosys and won a cash prize of 1 lakh INR.
-                [[Project Link]](https://github.com/sahilgarg30/Partially-Managed-Geofenced-mobile-phone---HackWithInfy-19)
+                [[Project Link]](https://github.com/sahilgarg30/Partially-Managed-Geofenced-mobile-phone---HackWithInfy-19) [[Trophy]](https://drive.google.com/file/d/1fURS3Ftrckhr_uJNv0lWrBtMXmY2J0kU/view?usp=sharing)
                 
       - title: DisastAR (Unity)
         link: "https://github.com/sahilgarg30/code.fun.do-2018"
