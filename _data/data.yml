@@ -185,7 +185,7 @@ projects:
       - title: Ghar Ke Chefs (Java)
         link: "https://play.google.com/store/apps/details?id=com.lonetigers.gharkechefs"
         tagline:  |
-                  Developed a platform (Android app - over 500 active users) that brings people fond of food together and enables them to buy/sell their home-cooked 
+                  Developed a platform (Android app - over 800 active users) that brings people fond of food together and enables them to buy/sell their home-cooked 
                   products by forming small communities of interested people living nearby. Developed the backend and database using 
                   cloud microservices and a recommendation engine to provide personalized recommendations and suggest similar products.
                                
