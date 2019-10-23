@@ -81,9 +81,11 @@ experiences:
       company: Microsoft Research Lab, India
       details:  |
         Will be working on Project Sankie under the guidance of [Dr. Ranjita Bhagwan](https://www.microsoft.com/en-us/research/people/bhagwan/).
+        
         "Project Sankie infuses data-driven techniques into engineering processes, development environments, and software lifecycles of large services. 
         Sankie’s goal is to consume data from static and dynamic features of a system, learn from them, and provide meaningful insights that can be used
         to make decisions for developing/reviewing, testing, deploying, monitoring, and root-causing."
+        
         [[Project Website]](https://www.microsoft.com/en-us/research/project/sankie/)
    
     - role: Summer Analyst
