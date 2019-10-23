@@ -48,7 +48,7 @@ sidebar:
       - item: Tech quizzing
         link: https://drive.google.com/file/d/1TR52_UJCeRN0xsQN3XuXQNuOd4i1BSyB/view?usp=sharing
 
-      - item: Sports - Basketball, Table tennis
+      - item: Sports - Basketball, Table Tennis
         link: https://drive.google.com/file/d/1zZq9XsfCHINuekQJ5tG4mKl4NjDLNs0Z/view?usp=sharing
         
       - item: Music - Guitar
@@ -76,6 +76,16 @@ education:
       details: |
           
 experiences:
+    - role: Incoming Research Intern
+      time: Jan 2020 - June 2020
+      company: Microsoft Research Lab, India
+      details:  |
+        Will be working on Project Sankie under the guidance of [Dr. Ranjita Bhagwan](https://www.microsoft.com/en-us/research/people/bhagwan/).
+        "Project Sankie infuses data-driven techniques into engineering processes, development environments, and software lifecycles of large services. 
+        Sankie’s goal is to consume data from static and dynamic features of a system, learn from them, and provide meaningful insights that can be used
+        to make decisions for developing/reviewing, testing, deploying, monitoring, and root-causing."
+        [[Project Website]](https://www.microsoft.com/en-us/research/project/sankie/)
+   
     - role: Summer Analyst
       time: May 2019 - July 2019
       company: Goldman Sachs, Bangalore
