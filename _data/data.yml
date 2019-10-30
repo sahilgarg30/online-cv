@@ -278,8 +278,7 @@ projects:
         link: "https://github.com/sahilgarg30/BusBooking-ASP.NET-app"
         tagline: |
                 As part of the internet technologies lab course, developed a bus booking app using ASP.NET in C#. Implemented multiple concepts such as web controls, validations, themes, stylesheets, master pages,
-                cookies, session and application states, query string, data binding and gridviews. ADO.NET and SQL Database are used for persistent storage.
-              
+                cookies, session and application states, query string, data binding and gridviews. ADO.NET and SQL Database are used for persistent storage. 
                 [[Project Link]](https://github.com/sahilgarg30/BusBooking-ASP.NET-app)
       
       - title: Minesweeper Game (Java)
