@@ -76,11 +76,11 @@ education:
       details: |
           
 experiences:
-    - role: Incoming Research Intern
+    - role: Research Intern
       time: Jan 2020 - June 2020
       company: Microsoft Research Lab, India
       details:  |
-        Will be working on Project Sankie under the guidance of [Dr. Ranjita Bhagwan](https://www.microsoft.com/en-us/research/people/bhagwan/).
+        Working on Project Sankie under the guidance of [Dr. Ranjita Bhagwan](https://www.microsoft.com/en-us/research/people/bhagwan/).
         
         "Project Sankie infuses data-driven techniques into engineering processes, development environments, and software lifecycles of large services. 
         Sankie’s goal is to consume data from static and dynamic features of a system, learn from them, and provide meaningful insights that can be used
