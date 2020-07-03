@@ -88,6 +88,15 @@ experiences:
         Sankie’s goal is to consume data from static and dynamic features of a system, learn from them, and provide meaningful insights that can be used
         to make decisions for developing/reviewing, testing, deploying, monitoring, and root-causing."
         
+          - Worked at the intersection of Program Synthesis ([PROSE](https://microsoft.github.io/prose/)), Programming Languages and Systems. Formulated a
+            research problem from scratch and performed several experiments.
+          - Designed, developed and implemented an efficient end-to-end recommendation system to learn trends and patterns in configurations from file 
+            content and commit history, and use them to alert and suggest developers in real-time on anomalous configuration values.
+          - Successfully deployed this fine-grained service to make recommendations at a line-level on pull requests on 50+ Microsoft internal repositories 
+            like Office, OneDrive, MSN and Teams, and later expanded it to 10,000+ Github repositories.
+          - The service helped improve developer productivity and prevent critical bugs in production by raising 30+ alerts per repository per month on 
+            average, with a precision of over 80%. More than 50% of total alerts helped avoid service breakdown and major disruptions.
+        
         [[Project Website]](https://www.microsoft.com/en-us/research/project/sankie/)
    
     - role: Summer Analyst
