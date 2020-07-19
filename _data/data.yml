@@ -206,7 +206,7 @@ publications:
     papers:
       - title: Extracting Structured Info. From Unstructured Text Using Synthesis and Learning
         authors: <b>Sahil Garg</b>, Ajinkya Rajput, Sriram Rajamani, Chiranjib Bhattacharyya, Deepak D'Souza
-        conference: SYNT Workshop at the [32nd International Conference on Computer-Aided Verification (CAV) 2020](http://i-cav.org/2020/)
+        conference: [SYNT Workshop](http://pl.cs.uchicago.edu/synt2020/index.html) at the [32nd International Conference on Computer-Aided Verification (CAV) 2020](http://i-cav.org/2020/)
         description: Framework to extract structured information from unstructured natural language text using a combination of machine learning and program 
                      synthesis techniques. [[Paper]](http://pl.cs.uchicago.edu/synt2020/papers/Extracting_Structured_Information_From_Unstructured_Text_Using_Synth_n_Learning.pdf)
             
