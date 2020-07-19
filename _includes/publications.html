@@ -23,7 +23,7 @@
     <div class="publication-authors">{{ publication.authors }}</div>
     
     {% if publication.description %}
-      - <span class="project-tagline">{{ publication.description | markdownify }}</span>
+      <span class="project-tagline">{{ publication.description | markdownify }}</span>
     {% endif %}
   </div><!--//item-->
   {% endfor %}
