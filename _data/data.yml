@@ -209,7 +209,7 @@ publications:
         conference: SYNT Workshop at the 32nd International Conference on Computer-Aided Verification (CAV) 2020
         link: "http://pl.cs.uchicago.edu/synt2020/index.html"
         description: Framework to extract structured information from unstructured natural language text using a combination of machine learning and program 
-                     synthesis techniques. [[Paper]](http://pl.cs.uchicago.edu/synt2020/papers/Extracting_Structured_Information_From_Unstructured_Text_Using_Synth_n_Learning.pdf)
+                     synthesis techniques. [[Paper]](http://pl.cs.uchicago.edu/synt2020/papers/Extracting_Structured_Information_From_Unstructured_Text_Using_Synth_n_Learning.pdf) [[Video Presentation]](https://www.youtube.com/watch?v=ZDGPBbIzhPA&feature=youtu.be)
             
 projects:
     title: Projects
