@@ -57,14 +57,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-             Undergrad student and researcher at Manipal Institute of Technology (MIT), Manipal pursuing <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1849, Department Rank 1/247)</b>.
-             Passionate about applications of data science and machine learning in bioinformatics, business intelligence and
-             cognitive computing. 
+             Software Engineer at Google building Android TV. Graduate from Manipal Institute of Technology (MIT), Manipal in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1849, Department Rank 1/247)</b>.
+             Passionate about applications of data science and machine learning in bioinformatics, business intelligence and cognitive computing. 
       
              Keen interests in - <b>Data Science and analytics, Machine Learning, Artificial Intelligence, Big Data
              and Application Development</b>.
-             
-             I have received full time offers for Software Engineer role at Google and Analyst(Tech) role at Goldman Sachs.
 
              [[PDF version of resume]](https://drive.google.com/file/d/15vjuzJ9VJF8SnSxZhH4sAocZfAcY8_Uu/view?usp=sharing) [[University Rank]](https://drive.google.com/file/d/11IfXIGcp1ILbvAanfmPELG88aUoxYnBC/view?usp=sharing) [[Transcripts]](https://drive.google.com/file/d/1rweWc2qImcrxRKoqFI8hWfE1zHNYhozI/view?usp=sharing) [[MOOCs]](https://drive.google.com/file/d/1XEYlq4S8ipQcEYm-joAS0v68AZkhN-PC/view?usp=sharing)
 
@@ -78,6 +75,13 @@ education:
       details: |
           
 experiences:
+    - role: Software Engineer
+      time: Aug 2020 - PRESENT
+      company: Google
+      details:  |
+        Working in the Android TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
+        [[Website]](https://www.android.com/intl/en_in/tv/)
+        
     - role: Research Intern
       time: Jan 2020 - June 2020
       company: Microsoft Research Lab, India
