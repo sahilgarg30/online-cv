@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-             Software Engineer at Google building Android TV. Graduate from Manipal Institute of Technology (MIT), Manipal in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
+             Software Engineer at Google building Google TV. Graduate from Manipal Institute of Technology (MIT), Manipal in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
              Passionate about applications of data science and machine learning in software systems and large-scale services. 
       
              Keen interests in - <b>Data Science and analytics, Machine Learning, Artificial Intelligence, Big Data, Application Development and Systems</b>.
@@ -78,7 +78,7 @@ experiences:
       time: Aug 2020 - PRESENT
       company: Google, India
       details:  |
-        Working in the Android TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
+        Working in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
         [[Website]](https://www.android.com/intl/en_in/tv/)
         
     - role: Research Intern
