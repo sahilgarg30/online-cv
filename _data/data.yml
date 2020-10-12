@@ -211,6 +211,12 @@ publications:
     title: PUBLICATIONS
     intro: |
     papers:
+      - title: Learning Patterns in Configuration
+        authors: Ranjita Bhagwan, Sonu Mehta, <b>Sahil Garg</b>, Arjun Radhakrishna
+        conference: 43rd International Conference on Software Engineering (ICSE) 2021
+        link: "https://conf.researchr.org/home/icse-2021"
+        description: Submitted and waiting for acceptance at ICSE 2021.
+
       - title: Extracting Structured Info. From Unstructured Text Using Synthesis and Learning
         authors: <b>Sahil Garg</b>, Ajinkya Rajput, Sriram Rajamani, Chiranjib Bhattacharyya, Deepak D'Souza
         conference: SYNT Workshop at the 32nd International Conference on Computer-Aided Verification (CAV) 2020
