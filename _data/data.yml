@@ -79,11 +79,14 @@ experiences:
       company: Google, India
       details:  |
         Working in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
+       
+          - Developing a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate
+            best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications.
+          - Working on creating self-serve tools and interfaces to help improve developer experience and make it simpler, faster and easier for developers to build their
+            applications for the Android TV and Google TV 
+          - Building client-side features on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
         
-        Developing a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate
-        best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications.
-        
-        [[Website]](https://www.android.com/intl/en_in/tv/)
+        [[Google TV Website]](https://tv.google) [[Android TV Website]](https://www.android.com/intl/en_in/tv/) 
         
     - role: Research Intern
       time: Jan 2020 - June 2020
