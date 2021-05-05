@@ -81,7 +81,7 @@ experiences:
         Working in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
        
           - Developing a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate
-            best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications.
+            best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications. [[Github Repo]](https://github.com/android/tv-samples/tree/main/ReferenceAppKotlin)
           - Working on creating self-serve tools and interfaces to help improve developer experience and make it simpler, faster and easier for developers to build their
             applications for the Android TV and Google TV.
           - Building client-side and server-side user-facing features on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
