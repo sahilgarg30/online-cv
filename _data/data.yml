@@ -65,6 +65,12 @@ career-profile:
              [[PDF version of resume]](https://drive.google.com/file/d/15vjuzJ9VJF8SnSxZhH4sAocZfAcY8_Uu/view?usp=sharing) [[University Rank]](https://drive.google.com/file/d/11IfXIGcp1ILbvAanfmPELG88aUoxYnBC/view?usp=sharing) [[Transcripts]](https://drive.google.com/file/d/1rweWc2qImcrxRKoqFI8hWfE1zHNYhozI/view?usp=sharing) [[MOOCs]](https://drive.google.com/file/d/1XEYlq4S8ipQcEYm-joAS0v68AZkhN-PC/view?usp=sharing)
 
 education:
+    - degree: Master of Engineering (MEng) in EECS department
+      university: University of California, Berkeley
+      time: 2021 - 2022
+      details: |
+        Specialisation in Data Science and Systems.
+      
     - degree: B.Tech in Computer Science
       university: Manipal Institute of Technology, Manipal 
       grade: CGPA - 9.94/10.00
