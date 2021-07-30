@@ -75,20 +75,41 @@ education:
           
 experiences:
     - role: Software Engineer
-      time: Aug 2020 - PRESENT
+      time: Aug 2020 - July 2021
       company: Google, India
       details:  |
-        Working in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
+        Worked in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
        
-          - Developing a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate
+          - Developed a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate
             best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications. [[Demo]](https://www.youtube.com/watch?v=SN7Xw6TGdcY)
             [[Code Repo]](https://github.com/android/tv-samples/tree/main/ReferenceAppKotlin) (many features are in Early Access Program and not launched publicly yet)
-          - Working on creating self-serve tools and interfaces to help improve developer experience and make it simpler, faster and easier for developers to build their
+          - Worked on creating self-serve tools and interfaces to help improve developer experience and make it simpler, faster and easier for developers to build their
             applications for the Android TV and Google TV.
-          - Building client-side and server-side user-facing features on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
+          - Built client-side and server-side user-facing features on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
             Coverage by [[The Verge]](https://www.theverge.com/2021/7/19/22580720/android-tv-watchlist-google-tv-features)[[Engadget]](https://www.engadget.com/android-tv-update-features-from-google-tv-160004195.html)[[Gizmodo]](https://gizmodo.com/google-is-giving-android-tv-a-new-watchlist-and-an-impr-1847318496)
         
         [[Website - Google TV]](https://tv.google) [[Website - Android TV]](https://www.android.com/intl/en_in/tv/) 
+        
+    - role: Strategy and Operations/Product Lead
+      time: Feb 2021 - July 2021
+      company: Youtube (EMEA)
+      details:  |
+        Worked part time as a 20%er on the Youtube EMEA Claims Team under Tiffany Ly (Chief of Staff, Youtube EMEA). Claims (i.e., key stats) are critical to Youtube to tell the YouTube story,
+        mission, and positive impact to press, advertisers, users, and other KOFs. Claims require executive oversight and cross-functional (XFN) work across multiple Google & YouTube teams in GBO,
+        GAPP (Policy), PR / Comms, Marketing, Investor Relations, and Product to make sure we properly land the key YouTube messages externally. To help with this mission, I worked on piloting
+        and building new processes in each region with XFN Leads to better define, prioritize, and land the high-level messages and claims. 
+        
+        In this role, I worked with senior stakeholders and engaged with global teams across Google and YouTube to help deliver highly visible processes and claims (meant for public / external use).
+        
+          - Designed and defined the product requirements for an improved claims prioritization model, processes, and escalation paths, including securing buy-in from EMEA XFN Leads and Global Teams
+            (Claims Lead, AMER, and APAC).
+          - Helped secure the critical Q2-Q4 2021 EMEA claims for key press, advertiser, and KOF activations; conducted data analyses, querying and verification.
+          - Managed and collaborated with cross-functional teams in GBO & Go-to-Market, Product, Marketing, GAPP, PR / Comms, and regional counterparts.
+          - Supported executive reviews and communications to influence and obtain approvals.
+          - Ensured the org is trained and follows any new global and/or regional guidance, processes, and steps.
+          
+        Skills - Project Management, Operational Efficiency, Relationship Management, Strategic Thinking, Data Analytics
+        [[Website - Youtube blog]](https://blog.youtube)
         
     - role: Research Intern
       time: Jan 2020 - June 2020
@@ -215,10 +236,18 @@ publications:
     intro: |
     papers:
       - title: Learning Patterns in Configuration
-        authors: Ranjita Bhagwan, Sonu Mehta, <b>Sahil Garg</b>, Arjun Radhakrishna
-        conference: 43rd International Conference on Software Engineering (ICSE) 2021
-        link: "https://conf.researchr.org/home/icse-2021"
-        description: Submitted and waiting for acceptance at ICSE 2021.
+        authors: Ranjita Bhagwan, Sonu Mehta, Arjun Radhakrishna, <b>Sahil Garg</b>
+        conference: The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)
+        link: "https://conf.researchr.org/home/ase-2021"
+        description: Large services depend on correct configuration to run efficiently and seamlessly. Checking such configuration for correctness has become a very important
+                     problem because services use a large and continuously increasing number of configuration files and parameters. Yet, very few such tools exist because the
+                     definition of correctness for a configuration parameter is seldom specified or documented, existing either as tribal knowledge among a few domain experts
+                     or not at all.
+                     In this paper, we address the problem of configuration pattern mining - learning configuration rules from example. Using program synthesis
+                     and a novel string profiling algorithm, we show that we can use file contents and histories of commits to learn patterns in configuration. We have built
+                     a tool called ConfMiner that implements configuration pattern mining and have deployed it on four large repositories containing configuration for a
+                     arge-scale enterprise service. Our evaluation shows that ConfMiner learns a large variety of configuration rules with high precision and is very useful in
+                     flagging anomalous configuration.
 
       - title: Extracting Structured Info. From Unstructured Text Using Synthesis and Learning
         authors: <b>Sahil Garg</b>, Ajinkya Rajput, Sriram Rajamani, Chiranjib Bhattacharyya, Deepak D'Souza
@@ -391,6 +420,22 @@ awards:
     intro: |
 
     papers:
+      - title: McKinsey Achievement Award
+        authors: McKinsey & Company - July 2021
+        conference: Selected to receive the McKinsey Women Achievement Award, 2021 as one of ~1% of over 8,000 applicants. The award entails a scholarship towards further education and professional development, mentorship
+                    from a McKinsey consultant working in the sponsoring office, and an invitation to join the Keep-In-Touch program.
+                    
+      - title: K.C. Mahindra Scholarship for Post Graduate Studies Abroad, 2021
+        authors: K.C. Mahindra Education Trust - July 2021
+        conference: Recipient of the prestigious KC Mahindra Scholarship for Post graduate Studies Abroad (Awarded to top ~3% of the applicants) for pursuing a master’s degree overseas at the University of California Berkeley.
+                    This was the very first scholarship program set up at the Trust by the founder, Mr. K. C. Mahindra, and it continues to offer bright Indian students the possibility of pursuing their higher education at
+                    reputed universities abroad since 1956. This year, the scholarship was awarded to 65 students from all over the country out of 1812 applicants after a comprehensive application and interview process.
+      
+      - title: J.N. Tata Scholarship for Post Graduate Studies Abroad, 2021
+        authors: The JN Tata Endowment for the Higher Education of Indians - July 2021
+        conference: Recipient of the prestigious J.N. Tata Scholarship for Post graduate Studies Abroad for pursuing a master’s degree overseas at the University of California Berkeley. The JN Tata Endowment for
+                    the Higher Education of Indians has been helping Indian students since 1892 with loan scholarships for higher studies. There are now more than 5,387 JN Tata Scholars all over the world.
+      
       - title: Dr. TMA Pai Gold Medal
         authors: Manipal University (MAHE) - Nov 2020
         conference: Awarded Dr. T.M.A. Pai Gold Medal for the Best Outgoing Graduate Student of Manipal Institute of Technology, Manipal for the class of 2020.
