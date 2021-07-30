@@ -250,6 +250,7 @@ publications:
                      problem because services use a large and continuously increasing number of configuration files and parameters. Yet, very few such tools exist because the
                      definition of correctness for a configuration parameter is seldom specified or documented, existing either as tribal knowledge among a few domain experts
                      or not at all.
+                     
                      In this paper, we address the problem of configuration pattern mining - learning configuration rules from example. Using program synthesis
                      and a novel string profiling algorithm, we show that we can use file contents and histories of commits to learn patterns in configuration. We have built
                      a tool called ConfMiner that implements configuration pattern mining and have deployed it on four large repositories containing configuration for a
