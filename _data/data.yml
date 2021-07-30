@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Sahil Garg
-    tagline: Software Engineer and CS Researcher
+    tagline: Software Engineer and CS Grad Student
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-             Software Engineer at Google building Google TV. Graduate from Manipal Institute of Technology (MIT), Manipal in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
+             Master of Engineering(MEng) student at UC Berkeley in the EECS Department with a specialisation in Data Science and Systems. Previously, software engineer at Google in the Google TV team. Graduate from Manipal Institute of Technology (MIT), Manipal in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
              Passionate about applications of data science and machine learning in software systems and large-scale services. 
       
              Keen interests in - <b>Data Science and analytics, Machine Learning, Artificial Intelligence, Big Data, Application Development and Systems</b>.
