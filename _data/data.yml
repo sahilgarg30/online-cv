@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Sahil Garg
-    tagline: CS Grad Student and Software Engineer 
+    tagline: Software Engineer and CS Researcher
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-             <b>Master of Engineering(MEng) student at UC Berkeley</b> in the <b>EECS Department</b> with a specialisation in Data Science and Systems. Previously, <b>Software Engineer at Google</b> in the Google TV team. Graduate from <b>Manipal Institute of Technology (MIT), India</b> in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
+             <b>Software Engineer at Google</b> in the Google TV team. Graduate from <b>Manipal Institute of Technology (MIT), India</b> in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
              Passionate about applications of data science and machine learning in software systems and large-scale services. 
       
              Keen interests in - <b>Data Science and analytics, Machine Learning, Artificial Intelligence, Big Data, Application Development and Systems</b>.
@@ -67,6 +67,7 @@ career-profile:
 education:
     - degree: Master of Engineering (MEng) in EECS department
       university: University of California, Berkeley
+      grade: On Hold
       time: 2021 - 2022
       rank1: Specialisation in Data Science and Systems
       details: |
@@ -81,19 +82,19 @@ education:
           
 experiences:
     - role: Software Engineer
-      time: Aug 2020 - July 2021
+      time: Aug 2020 - PRESENT
       company: Google, India
       details:  |
-        Worked in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
+        Working in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
        
+          - Building client-side and server-side user-facing features launched on over 80M+ devices in more than 50 countries on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
+            Coverage by [[The Verge]](https://www.theverge.com/2021/7/19/22580720/android-tv-watchlist-google-tv-features)[[Engadget]](https://www.engadget.com/android-tv-update-features-from-google-tv-160004195.html)[[Gizmodo]](https://gizmodo.com/google-is-giving-android-tv-a-new-watchlist-and-an-impr-1847318496)
           - Developed a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate
             best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications. [[Demo]](https://www.youtube.com/watch?v=SN7Xw6TGdcY)
             [[Code Repo]](https://github.com/android/tv-samples/tree/main/ReferenceAppKotlin) (many features are in Early Access Program and not launched publicly yet)
           - Worked on creating self-serve tools and interfaces to help improve developer experience and make it simpler, faster and easier for developers to build their
             applications for the Android TV and Google TV.
-          - Built client-side and server-side user-facing features launched on over 80M+ devices in more than 50 countries on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
-            Coverage by [[The Verge]](https://www.theverge.com/2021/7/19/22580720/android-tv-watchlist-google-tv-features)[[Engadget]](https://www.engadget.com/android-tv-update-features-from-google-tv-160004195.html)[[Gizmodo]](https://gizmodo.com/google-is-giving-android-tv-a-new-watchlist-and-an-impr-1847318496)
-        
+          
         [[Website - Google TV]](https://tv.google) [[Website - Android TV]](https://www.android.com/intl/en_in/tv/) 
         
     - role: Strategy and Operations/Product Lead
