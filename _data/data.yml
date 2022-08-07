@@ -255,7 +255,7 @@ publications:
                      In this paper, we address the problem of configuration pattern mining - learning configuration rules from example. Using program synthesis
                      and a novel string profiling algorithm, we show that we can use file contents and histories of commits to learn patterns in configuration. We have built
                      a tool called ConfMiner that implements configuration pattern mining and have deployed it on four large repositories containing configuration for a
-                     arge-scale enterprise service. Our evaluation shows that ConfMiner learns a large variety of configuration rules with high precision and is very useful in
+                     large-scale enterprise service. Our evaluation shows that ConfMiner learns a large variety of configuration rules with high precision and is very useful in
                      flagging anomalous configuration. [[Website]](https://conf.researchr.org/details/ase-2021/ase-2021-papers/19/Learning-Patterns-in-Configuration)
 
       - title: Extracting Structured Info. From Unstructured Text Using Synthesis and Learning
