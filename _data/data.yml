@@ -13,14 +13,14 @@ sidebar:
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sahilgarg3098@gmail.com
-    phone: +91 8217387724
+    email:
+    phone:
     website: #do not add http://
-    linkedin: sahilgarg30
-    github: sahilgarg30
+    linkedin:
+    github:
     gitlab:
     bitbucket:
-    twitter: '@sahilgarg3098'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
