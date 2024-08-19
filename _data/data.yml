@@ -162,6 +162,9 @@ experiences:
             content and commit history, which can be used to alert and suggest developers in real-time on anomalous configuration values.
           - Successfully deployed this fine-grained system on several repositories of large-scale enterprise services to learn a diverse set of 
             rules on configurations with a high precision.
+
+        This work led to a research publication in ASE 2021 [[Website]](https://conf.researchr.org/details/ase-2021/ase-2021-papers/19/Learning-Patterns-in-Configuration),
+        and a US patent: Pattern based configuration verifier [[Website]](https://patentcenter.uspto.gov/applications/17607621)
         
         [[Project Website]](https://www.microsoft.com/en-us/research/project/sankie/)
    
@@ -283,7 +286,9 @@ publications:
                      and a novel string profiling algorithm, we show that we can use file contents and histories of commits to learn patterns in configuration. We have built
                      a tool called ConfMiner that implements configuration pattern mining and have deployed it on four large repositories containing configuration for a
                      large-scale enterprise service. Our evaluation shows that ConfMiner learns a large variety of configuration rules with high precision and is very useful in
-                     flagging anomalous configuration. [[Website]](https://conf.researchr.org/details/ase-2021/ase-2021-papers/19/Learning-Patterns-in-Configuration)
+                     flagging anomalous configuration. This work was also accepted as a US patent: Pattern based configuration verifier.
+                     [[Website]](https://conf.researchr.org/details/ase-2021/ase-2021-papers/19/Learning-Patterns-in-Configuration)
+                     [[Patent]](https://patentcenter.uspto.gov/applications/17607621)
 
       - title: Extracting Structured Info. From Unstructured Text Using Synthesis and Learning
         authors: <b>Sahil Garg</b>, Ajinkya Rajput, Sriram Rajamani, Chiranjib Bhattacharyya, Deepak D'Souza
