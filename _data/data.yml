@@ -285,8 +285,8 @@ publications:
                      In this paper, we address the problem of configuration pattern mining - learning configuration rules from example. Using program synthesis
                      and a novel string profiling algorithm, we show that we can use file contents and histories of commits to learn patterns in configuration. We have built
                      a tool called ConfMiner that implements configuration pattern mining and have deployed it on four large repositories containing configuration for a
-                     large-scale enterprise service. Our evaluation shows that ConfMiner learns a large variety of configuration rules with high precision and is very useful in
-                     flagging anomalous configuration. This work was also accepted as a US patent: Pattern based configuration verifier.
+                     large-scale enterprise service. Our evaluation shows that ConfMiner learns a large variety of configuration rules with high precision and is very useful in flagging anomalous configuration.
+                     This work was also accepted as a US patent - Pattern based configuration verifier.
                      [[Website]](https://conf.researchr.org/details/ase-2021/ase-2021-papers/19/Learning-Patterns-in-Configuration)
                      [[Patent]](https://patentcenter.uspto.gov/applications/17607621)
 
