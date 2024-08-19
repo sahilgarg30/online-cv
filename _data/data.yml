@@ -9,15 +9,15 @@ sidebar:
 
     # Profile information
     name: Sahil Garg
-    tagline: Software Engineer and CS Researcher
+    tagline: Software Engineer and Technical Leader
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email:
+    email: sahilgarg3098@gmail.com
     phone:
     website: #do not add http://
-    linkedin:
-    github:
+    linkedin: https://www.linkedin.com/in/sahilgarg30/
+    github: https://github.com/sahilgarg30
     gitlab:
     bitbucket:
     twitter:
@@ -57,8 +57,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-             <b>Software Engineer at Google</b> in the Google TV team. Graduate from <b>Manipal Institute of Technology (MIT), India</b> in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
-             Passionate about applications of data science and machine learning in software systems and large-scale services. 
+             <b>Software Engineer at Amazon</b> in the Prime Video org. Previously, software engineer at Google in the Google TV Team. Graduate from <b>Manipal Institute of Technology (MIT), India</b> in <b>Computer Science and Engineering</b> with a <b>CGPA of 9.94/10 (University Rank 1/1957, Department Rank 1/246)</b>.
+             Passionate about building large-scale software and applications of data science and AI in the software industry. 
       
              Keen interests in - <b>Data Science and analytics, Machine Learning, Artificial Intelligence, Big Data, Application Development and Systems</b>.
 
@@ -67,8 +67,8 @@ career-profile:
 education:
     - degree: Master of Engineering (MEng) in EECS department
       university: University of California, Berkeley
-      grade:
-      time: 2021 - 2022
+      grade: NA (Paused)
+      time: 2021
       rank1: Specialisation in Data Science and Systems
       details: |
       
@@ -81,19 +81,46 @@ education:
       details: |
           
 experiences:
+    - role: Software Engineer II
+      time: Dec 2022 - PRESENT
+      company: Amazon Prime Video and Studios, US
+      details:  |
+        Working in the Data Tools, Monitoring and Insights team at Prime Video building services, tools and applications for large scale real time monitoring, reporting, dashboarding, analytics, and insight generation from all of Prime Video data.
+        Technical lead of team of 5 engineers, leading the primary reporting and dash-boarding platform for prime video data from video streams used by tens of thousands of customers internal and external to Amazon, and for live contractual reporting.
+        
+          - Designed, implemented and launched several large features on the React based web applications for real time data analysis on video streams, retrieval of data fields and metrics using a fully automated pipeline, query execution on data tables etc.
+          - Technical lead of team of 4 engineers, leading end to end architecture and design along with development of a multi-stage micro-service based application to detect, measure and raise data quality issues in petabyte-scale telemetry data generated during video streaming. Launched the service that
+            processes 100s of petabytes of data daily, proactively identifying critical data issues and avoiding bad reporting for legal and contracts saving millions of dollars monthly.
+          - Working on architecture and implementation of Generative AI based tools for insight generation, anomaly detection, issue identification and mitigation, root cause analysis on playback information from video streams on Prime Video.
+          - Mentored and led summer interns and software engineers on the team. Leading operational efficiency initiatives. Thought leader for engineering excellence. Actively involved in hiring and recruiting, as well as overall operational planning and strategy.
+        
+        [[Website - Prime Video]](https://www.primevideo.com/) [[Prime Video Redirect]](https://videodirect.amazon.com/) 
+                
+    - role: Software Engineer III
+      time: Oct 2022 - Dec 2022
+      company: Walmart Labs, US
+      details:  |
+        Short stint in the Cart and Checkout team at Walmart to build services and application features on Web, Android and iOS devices to enable users to shop online at Walmart using a seamless cart and checkout experience. This involved managing services that create, update and track a user's cart and
+        interact with inventory management, deals, offers, concurrent purchases and delivery/pickup options. It also involved managing the checkout workflow, such that users can set their delivery/pickup times and preferences and pay via multiple channels.
+
+          - Worked on feature enhancements and bug fixes on the backend services that support both the cart and checkout workflows across all devices. Developed and deployed a feature to show new Thanksgiving offers and Black Friday Sale deals in the user's carts.
+          - Handled deployments and scaling during the black friday sale period, which is when the apps and services experience the maximum annual concurrent traffic.
+        
+        [[Website - Walmart]](https://www.walmart.com/) [[Android App]](https://play.google.com/store/apps/details?id=com.walmart.android&hl=en_US) [[iOS App]](https://apps.apple.com/us/app/walmart-shopping-savings/id338137227) 
+        
     - role: Software Engineer
-      time: Aug 2020 - PRESENT
+      time: Aug 2020 - Sep 2022
       company: Google, India
       details:  |
-        Working in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
-       
-          - Building client-side and server-side user-facing features launched on over 80M+ devices in more than 50 countries on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
+        Worked in the Google TV team to design, develop and build the next generation of TV experience and drive significant changes in the streaming ecosystem.
+
+          - Built client-side and server-side user-facing features launched on over 80M+ devices in more than 100 countries on the Android TV Operating System to make the user experience on the TV more delightful and personalised.
             Coverage by [[The Verge]](https://www.theverge.com/2021/7/19/22580720/android-tv-watchlist-google-tv-features)[[Engadget]](https://www.engadget.com/android-tv-update-features-from-google-tv-160004195.html)[[Gizmodo]](https://gizmodo.com/google-is-giving-android-tv-a-new-watchlist-and-an-impr-1847318496)
-          - Developed a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate
-            best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications. [[Demo]](https://www.youtube.com/watch?v=SN7Xw6TGdcY)
-            [[Code Repo]](https://github.com/android/tv-samples/tree/main/ReferenceAppKotlin) (many features are in Early Access Program and not launched publicly yet)
-          - Worked on creating self-serve tools and interfaces to help improve developer experience and make it simpler, faster and easier for developers to build their
-            applications for the Android TV and Google TV.
+          - Designed and implemented several features to enhance the quality of content recommendations on Android TV as well as showcase advertisements, promotions and merchandising content to users on the platform.
+          - Developed a reference application integrating several new features within a TV app such as Cast, Voice Actions (Google Assistant) and Search to demonstrate best practices and accurate implementation to partners and external developers, and facilitate higher-quality applications.
+            [[Demo]](https://www.youtube.com/watch?v=SN7Xw6TGdcY) [[Code Repo]](https://github.com/android/tv-samples/tree/main/ReferenceAppKotlin) (many features are in Early Access Program and not launched publicly yet)
+          - Worked on creating self-serve tools and interfaces to help improve developer experience and make it simpler, faster and easier for developers to build their applications for the Android TV and Google TV.
+          - Developed a pipeline for content producers and publishers to integrate with systems at Google, and seamlessly provide content assets and metadata.
           
         [[Website - Google TV]](https://tv.google) [[Website - Android TV]](https://www.android.com/intl/en_in/tv/) 
         
